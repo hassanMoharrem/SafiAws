@@ -2442,20 +2442,20 @@
         },
         {
             "name": "nette/utils",
-            "version": "v4.0.4",
+            "version": "v4.0.5",
             "source": {
                 "type": "git",
                 "url": "https://github.com/nette/utils.git",
-                "reference": "d3ad0aa3b9f934602cb3e3902ebccf10be34d218"
+                "reference": "736c567e257dbe0fcf6ce81b4d6dbe05c6899f96"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/nette/utils/zipball/d3ad0aa3b9f934602cb3e3902ebccf10be34d218",
-                "reference": "d3ad0aa3b9f934602cb3e3902ebccf10be34d218",
+                "url": "https://api.github.com/repos/nette/utils/zipball/736c567e257dbe0fcf6ce81b4d6dbe05c6899f96",
+                "reference": "736c567e257dbe0fcf6ce81b4d6dbe05c6899f96",
                 "shasum": ""
             },
             "require": {
-                "php": ">=8.0 <8.4"
+                "php": "8.0 - 8.4"
             },
             "conflict": {
                 "nette/finder": "<3",
@@ -2522,9 +2522,9 @@
             ],
             "support": {
                 "issues": "https://github.com/nette/utils/issues",
-                "source": "https://github.com/nette/utils/tree/v4.0.4"
+                "source": "https://github.com/nette/utils/tree/v4.0.5"
             },
-            "time": "2024-01-17T16:50:36+00:00"
+            "time": "2024-08-07T15:39:19+00:00"
         },
         {
             "name": "nikic/php-parser",
@@ -6088,16 +6088,16 @@
         },
         {
             "name": "vonage/client-core",
-            "version": "4.8.5",
+            "version": "4.8.6",
             "source": {
                 "type": "git",
                 "url": "https://github.com/Vonage/vonage-php-sdk-core.git",
-                "reference": "89365d5add05aab0dacff1fb2a4c328ac9f95564"
+                "reference": "eb73c220f46b1ecb6738ce4245128c17d28a01bc"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/Vonage/vonage-php-sdk-core/zipball/89365d5add05aab0dacff1fb2a4c328ac9f95564",
-                "reference": "89365d5add05aab0dacff1fb2a4c328ac9f95564",
+                "url": "https://api.github.com/repos/Vonage/vonage-php-sdk-core/zipball/eb73c220f46b1ecb6738ce4245128c17d28a01bc",
+                "reference": "eb73c220f46b1ecb6738ce4245128c17d28a01bc",
                 "shasum": ""
             },
             "require": {
@@ -6148,7 +6148,7 @@
                 "issues": "https://github.com/Vonage/vonage-php-sdk-core/issues",
                 "source": "https://github.com/Vonage/vonage-php-sdk-core"
             },
-            "time": "2024-07-24T12:55:08+00:00"
+            "time": "2024-08-09T11:08:29+00:00"
         },
         {
             "name": "vonage/jwt",
